@@ -1,0 +1,21 @@
+{
+  "name": "agify-api-tests",
+  "version": "1.0.0",
+  "description": "Agify API Testing using Cucumber and Typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "cucumber-js --require-module ts-node/register --require ./steps/**/*.ts"
+  },
+  "dependencies": {
+    "18": "^0.0.0",
+    "axios": "^1.4.0",
+    "chai": "^4.3.6"
+  },
+  "devDependencies": {
+    "@cucumber/cucumber": "^11.1.0",
+    "@types/chai": "^4.3.0",
+    "@types/node": "^20.17.9",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.2.0"
+  }
+}
