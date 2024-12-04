@@ -15,7 +15,7 @@ This repo contains the test suite for the [Agify API](https://agify.io/) as part
 - [npm](https://www.npmjs.com/)
 
 ## Installation
-- git clone https://github.com/<your-username>/agify-api-tests.git
-- cd agify-api-tests
+- git clone https://github.com/<your-username>/agify-api-test.git
+- cd agify-api-test
 - npm install
 - npm test
