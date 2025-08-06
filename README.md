@@ -1,6 +1,6 @@
 # agify-api-test
 
-This repo contains the test suite for the [Agify API](https://agify.io/) as part of the Kaluza QA Engineer Recruitment Process.
+This repo contains the test suite for the [Agify API](https://agify.io/)
 
 ## Features
 
